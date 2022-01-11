@@ -3,7 +3,15 @@ var string = "sdfasdf"
 
 string = 8
 
-let string = "asdfasdfadf"
 
 const pi = 3.14
+
+console.log(pi)
+
+var mystr = "asdfasdfa\"dasdfasdfadf\"adafdasdf"
+console.log(mystr)
+var mystr = 'asdfasdfa"dasdfasdfadf"adafdasdf'
+console.log(mystr)
+
+
 
